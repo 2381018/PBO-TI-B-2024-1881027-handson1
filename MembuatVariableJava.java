@@ -16,6 +16,7 @@ public class MembuatVariableJava {
         String Fullname;
         Fullname ="Josh Sinabutar";
 
-        final double PHI; Value = 3.14;
+        final double PHI;
+        double Value = 3.14;
     }
 }
